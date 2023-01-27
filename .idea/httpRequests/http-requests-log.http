@@ -1,0 +1,230 @@
+GET http://localhost:8080/calculator/divide?a=5&b=5
+
+<> 2023-01-27T154933.200.txt
+
+###
+
+GET http://localhost:8080/calculator/multiply?a=5&b=5
+
+<> 2023-01-27T154932.200.txt
+
+###
+
+GET http://localhost:8080/calculator/minus?a=5&b=5
+
+<> 2023-01-27T154930.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T154929.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154926.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154905.404.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T154854.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154851.404.json
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154820.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154744.404.json
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154715.404.json
+
+###
+
+GET http://localhost:8080/calculator/multiply?a=5&b=5
+
+<> 2023-01-27T154648.200.txt
+
+###
+
+GET http://localhost:8080/calculator/divide?a=5&b=5
+
+<> 2023-01-27T154647.200.txt
+
+###
+
+GET http://localhost:8080/calculator/minus?a=5&b=5
+
+<> 2023-01-27T154645.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T154643.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154637.404.json
+
+###
+
+GET http://localhost:8080/calculator/divide?a=5&b=5
+
+<> 2023-01-27T154122.200.txt
+
+###
+
+GET http://localhost:8080/calculator/multiply?a=5&b=5
+
+<> 2023-01-27T154120.200.txt
+
+###
+
+GET http://localhost:8080/calculator/minus?a=5&b=5
+
+<> 2023-01-27T154117.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T154113.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T154108.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T153054.200.txt
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T153051.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T151818.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T151744.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T151520.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T125952.200.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T125623.200.json
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T125619.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5&b=5
+
+<> 2023-01-27T125011.200.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5, b = 5
+
+<> 2023-01-27T124918.400.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5
+
+<> 2023-01-27T124818.200.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5
+
+###
+
+GET http://localhost:8080/calculator
+
+<> 2023-01-27T124417.200.txt
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5,b=5
+
+<> 2023-01-27T124215.400.json
+
+###
+
+GET http://localhost:8080/calculator/plus?a=5,b=5
+
+<> 2023-01-27T124052.400.json
+
+###
+
+GET http://localhost:8080/calculator
+
+###
+
+GET http://localhost:8080/calculator
+
+###
+
